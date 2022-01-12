@@ -16,8 +16,7 @@ The Spring PetClinic sample application is designed to show how the Spring appli
 
 ## Contributors
 
-1. Irshad A Buchh, Amazon Web Services
-2. Mike Rizzo, Amazon Web Services
+1. Shivam Agnihotri
 
 ## Architecture
 ![Architecture](images/Architecture.png)
